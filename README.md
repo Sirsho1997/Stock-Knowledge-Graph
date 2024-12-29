@@ -5,7 +5,7 @@ This project focuses on building a knowledge graph from stock data sourced from 
 **Key Features:**
 
 * **Data Collection:**
-  *   Scraped list of **sectors** and corresponding **tickers/symbols** grouped in the sector from [Yahoo Finance](https://finance.yahoo.com/) using the script [01_scrape_sectors_yfinance.py](https://github.com/Sirsho1997/Stock-Knowledge-Graph/blob/main/01_scrape_sectors_yfinance.py) within the following sectors:
+  *   Scraped list of **sectors** and corresponding company **tickers/symbols** grouped in the sector from [Yahoo Finance](https://finance.yahoo.com/) using the script [01_scrape_sectors_yfinance.py](https://github.com/Sirsho1997/Stock-Knowledge-Graph/blob/main/01_scrape_sectors_yfinance.py) within the following sectors:
         * Technology
         * Financial Services
         * Consumer Cyclical
@@ -31,35 +31,8 @@ This project focuses on building a knowledge graph from stock data sourced from 
     * Identifies potential correlations and dependencies among stocks.
     * May incorporate external data sources (e.g., news, economic indicators) to enrich the graph.
 
-* **Analysis and Visualization:**
-    * Utilizes graph algorithms for tasks such as:
-        * Community detection (identifying clusters of closely related stocks)
-        * Anomaly detection (finding unusual stock price movements)
-        * Pathfinding (analyzing potential investment pathways)
-    * Visualizes the knowledge graph using interactive tools (e.g., network diagrams).
+* **Application:**
+  * Portfolio management for users based on their preferred sectors/stocks
+  * Establishing pairwise relationship between sectors/ stocks that 
 
-**Potential Applications:**
 
-* **Investment Portfolio Management:**
-    * Optimize portfolio diversification by identifying sectors with low correlation.
-    * Generate investment strategies based on predicted stock price movements.
-* **Risk Assessment:**
-    * Identify systemic risks within specific sectors.
-    * Assess the impact of external events on stock prices.
-* **Market Research:**
-    * Gain insights into industry trends and competitive landscapes.
-    * Discover new investment opportunities.
-
-**Technologies Used:**
-
-* **Data Sources:** Yahoo Finance API
-* **Programming Languages:** Python (e.g., Pandas, NumPy, NetworkX)
-* **Data Visualization:** Libraries like matplotlib, seaborn, or interactive JavaScript libraries
-
-**Further Development:**
-
-* Incorporate machine learning models for predictive analysis.
-* Integrate real-time data streams for dynamic graph updates.
-* Develop a user-friendly interface for interacting with the knowledge graph.
-
-This README provides a general overview of the project. For more detailed information, please refer to the project documentation and source code.
