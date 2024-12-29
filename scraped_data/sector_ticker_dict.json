@@ -1,0 +1,79 @@
+{
+    "Technology": [
+        "AAPL ",
+        "NVDA ",
+        "MSFT ",
+        "AVGO ",
+        "ORCL "
+    ],
+    "Financial Services": [
+        "BRK-B ",
+        "JPM ",
+        "V ",
+        "MA ",
+        "BAC "
+    ],
+    "Consumer Cyclical": [
+        "AMZN ",
+        "TSLA ",
+        "HD ",
+        "MCD ",
+        "BKNG "
+    ],
+    "Healthcare": [
+        "LLY ",
+        "UNH ",
+        "JNJ ",
+        "ABBV ",
+        "MRK "
+    ],
+    "Communication Services": [
+        "GOOG ",
+        "META ",
+        "NFLX ",
+        "TMUS ",
+        "DIS "
+    ],
+    "Industrials": [
+        "GE ",
+        "CAT ",
+        "RTX ",
+        "HON ",
+        "UNP "
+    ],
+    "Consumer Defensive": [
+        "WMT ",
+        "COST ",
+        "PG ",
+        "KO ",
+        "PEP "
+    ],
+    "Energy": [
+        "TXGE ",
+        "XOM ",
+        "CVX ",
+        "COP ",
+        "EOG "
+    ],
+    "Real Estate": [
+        "PLD ",
+        "EQIX ",
+        "AMT ",
+        "WELL ",
+        "SPG "
+    ],
+    "Basic Materials": [
+        "LIN ",
+        "SHW ",
+        "SCCO ",
+        "ECL ",
+        "APD "
+    ],
+    "Utilities": [
+        "NEE ",
+        "GEV ",
+        "SO ",
+        "DUK ",
+        "CEG "
+    ]
+}
