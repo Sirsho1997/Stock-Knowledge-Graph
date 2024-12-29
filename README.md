@@ -1,4 +1,4 @@
-# Project: Knowledge Graph from Stock Data
+# Knowledge Graph from Stock Data
 
 This project focuses on building a knowledge graph from stock data sourced from Yahoo Finance. 
 
